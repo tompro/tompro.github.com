@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>protom</title>
-    <link>http://www.protom.eu/</link>
+    <link>https://www.protom.eu/</link>
     <description>Recent content on protom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 May 2020 19:47:54 +0200</lastBuildDate>
     
-	<atom:link href="http://www.protom.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.protom.eu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://www.protom.eu/contact/</link>
+      <link>https://www.protom.eu/contact/</link>
       <pubDate>Sun, 24 May 2020 19:47:54 +0200</pubDate>
       
-      <guid>http://www.protom.eu/contact/</guid>
+      <guid>https://www.protom.eu/contact/</guid>
       <description>  Thomas Profelt Hasnerstrasse 6 4020 Linz office@protom.eu +43(0)699 10009960  </description>
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://www.protom.eu/portfolio/</link>
+      <link>https://www.protom.eu/portfolio/</link>
       <pubDate>Sun, 24 May 2020 17:04:08 +0200</pubDate>
       
-      <guid>http://www.protom.eu/portfolio/</guid>
+      <guid>https://www.protom.eu/portfolio/</guid>
       <description>I know, a developer portfolio is by far not as amusing as one of a graphics designer. Nevertheless I hope all the nerds beeing sent to this page can enjoy the ride through my personal technology timeline. Is&amp;rsquo;nt it amazing how fast all this stuff keeps changing and evolving?
 2014 - now  myPlant Backend, architecture and infrastructure for an industrial IoT/Analytics platform, consulting in areas of scalability, continuous integration and deployment, system integration (ERP, service, parts, &amp;hellip;), authentication (SSO), public APIs, implemented REST/GraphQL API (micro) service layers with Scala and Akka for analytics and asset management, planning and configuration of a scaleable cluster setup, migration of existing legacy systems.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.protom.eu/about/</link>
+      <link>https://www.protom.eu/about/</link>
       <pubDate>Sat, 23 May 2020 15:37:02 +0200</pubDate>
       
-      <guid>http://www.protom.eu/about/</guid>
+      <guid>https://www.protom.eu/about/</guid>
       <description>There is actually not much to say about me and my work, as life is a matter of constant change. What I am right now might have nothing to do with the person I will become a few days from now. Sounds philosophical? Maybe. The most constant thing about the work I am doing is that I am not (only) here for the money. I am here for the constant change and progess all tech stuff is making.</description>
     </item>
     
