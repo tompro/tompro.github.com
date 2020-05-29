@@ -1,0 +1,20 @@
+.contact {
+	display: flex;
+}
+
+.contact .avatar {
+	margin-right: 50px;
+}
+
+.contact ul {
+	list-style: none;
+}
+
+.portfolio article > ul {
+	list-style: none;
+  padding-left: 0;
+}
+
+li > ul {
+	list-style: disc;
+}
