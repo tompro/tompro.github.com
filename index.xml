@@ -5,12 +5,7 @@
     <link>https://www.protom.eu/</link>
     <description>Recent content on protom</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 24 May 2020 19:47:54 +0200</lastBuildDate>
-    
-	<atom:link href="https://www.protom.eu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.protom.eu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://www.protom.eu/contact/</link>
@@ -27,7 +22,7 @@
       
       <guid>https://www.protom.eu/portfolio/</guid>
       <description>I know, a developer portfolio is by far not as amusing as one of a graphics designer. Nevertheless I hope all the nerds beeing sent to this page can enjoy the ride through my personal technology timeline. Is&amp;rsquo;nt it amazing how fast all this stuff keeps changing and evolving?
-2014 - now  myPlant Backend, architecture and infrastructure for an industrial IoT/Analytics platform, consulting in areas of scalability, continuous integration and deployment, system integration (ERP, service, parts, &amp;hellip;), authentication (SSO), public APIs, implemented REST/GraphQL API (micro) service layers with Scala and Akka for analytics and asset management, planning and configuration of a scaleable cluster setup, migration of existing legacy systems.</description>
+10/2021 - now  Zalando Retail Operations Wholesales Backend REST API micro-services with Kotlin/Java/Spring for inbound logistics tracking. Frontend tracking UI with React.</description>
     </item>
     
     <item>
